@@ -1,7 +1,7 @@
 ## Hi there 👋
 Data Scientist applying Machine Learning and Probabilistic Modelling to uncover recurrent patterns in multidimensional clinical data.
  
-I organised my PhD code in a modular way to reuse it for different projects.
+I organised my PhD code in a modular way to reuse it in different projects.
 Have a look below!
 <!--
 **fraterenz/fraterenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
