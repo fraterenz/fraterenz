@@ -1,7 +1,7 @@
 ## Hi there 👋
-I am a PhD candidate in computational biology studying genetic data through mathematical modelling.
-
-I organise my PhD code in a modular way so I can easily reuse it for different projects.
+Data Scientist applying Machine Learning and Probabilistic Modelling to uncover recurrent patterns in multidimensional clinical data.
+ 
+I organised my PhD code in a modular way to reuse it for different projects.
 Have a look below!
 <!--
 **fraterenz/fraterenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
