@@ -1,9 +1,11 @@
 ## Hi there 👋
-Data Scientist applying Machine Learning and Probabilistic Modelling to uncover recurrent patterns in multidimensional clinical data.
- 
+I'm a Data Scientist applying Machine Learning and Probabilistic Modelling to uncover recurrent patterns in multidimensional clinical data.
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fraterenz&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 I organised my PhD code in a modular way to reuse it in different projects.
 Have a look below!
-<!--
+
 **fraterenz/fraterenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on ...
--->
+
 ![PhD workflow](./diagram.png)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fraterenz&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
