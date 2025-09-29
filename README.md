@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Data Scientist applying Machine Learning and Probabilistic Modelling to uncover recurrent patterns in multidimensional clinical data.
+I uncover recurrent patterns in clinical data using Machine Learning and Probabilistic Modelling.
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=fraterenz&hide=jupyter%20notebook,tex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
