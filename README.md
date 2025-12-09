@@ -1,24 +1,6 @@
-## Hi there 👋
-I uncover recurrent patterns in clinical data using Machine Learning and Probabilistic Modelling.
+## 👋 Hey, I'm Francesco
+Computational biologist working with clinical & genetic data for better health 🧬
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fraterenz&hide=jupyter%20notebook,tex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-I organised my PhD code in a modular way to reuse it in different projects.
-Have a look below!
+Mostly 🐍, sometimes 🦀  
 
-**fraterenz/fraterenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m currently working on ...
-
-![PhD workflow](./diagram.png)
--->
-
+Probabilistic ML 👌 &nbsp;&nbsp;&nbsp; Bayesian inference 💙 &nbsp;&nbsp;&nbsp; Interpretable models 📊
